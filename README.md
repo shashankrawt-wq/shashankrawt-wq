@@ -1,4 +1,4 @@
-<h1 align="center">🪶 Hey there, I'm <span style="color:#00A8E8">Shashank</span></h1>
+<h1 align="left"> Hey there, I'm <span style="color:#00A8E8">Shashank</span></h1>
 
 <p align="center">
   🧮 <b>Data Professional | SQL Enthusiast | Power BI | Python </b><br>
