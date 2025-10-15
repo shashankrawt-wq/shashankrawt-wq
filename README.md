@@ -68,8 +68,6 @@
 📊 Building storytelling dashboards in **Power BI**  
 📘 Learning **Python automation** for reporting workflows  
 
-<p align="right">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Bxa2RjYmJ0YzNidThpamVoYXA5NjNuNWg2emdwa2xwaXFjeW5iOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GMOVMW9QFjZUDU09UX/giphy.gif" width="280" height="180" alt="Coding Celebration GIF">
 
 
 ### 🌐 Let’s Connect  
